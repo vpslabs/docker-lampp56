@@ -22,7 +22,7 @@ environment:
 1. Make sure [docker](https://itgov.id/cara-install-docker-linux/) and [docker-compose](https://docs.docker.com/compose/install/) is installed on your machine.
 2. Clone this repository to your local machine with this command.
     ```bash
-    https://github.com/vpslabs/docker-lampp56.git
+    git clone https://github.com/vpslabs/docker-lampp56.git
     ```
     then cd into the directory
     ```bash
