@@ -49,7 +49,7 @@ Docker dengan Apache, MySQL dan PHP 5.6
 1. Pastikan [docker dan docker-compose](https://itgov.id/cara-install-docker-linux/) sudah terinstal, apabila belum ikuti link tersebut.
 2. Clone repository ini ke dalam mesin Linux komputer local.
     ```bash
-    https://github.com/vpslabs/docker-lampp56.git
+    git clone https://github.com/vpslabs/docker-lampp56.git
     ```
     masuk ke direktori hasil download atau bisa gunakan perintah cd berikut
     ```bash
