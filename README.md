@@ -1,6 +1,6 @@
 # Docker LAMPP Apache, MySQL, PHP 5.6
 
-![alt text](https://github.com/vpslabs/docker-lampp56/localhost.jpg?raw=true)
+![alt text](https://github.com/vpslabs/docker-lampp56/localhost.png?raw=true)
 
 This docker contain:
 - PHP version : 5.6
