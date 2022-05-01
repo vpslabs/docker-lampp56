@@ -1,4 +1,7 @@
 # Docker LAMPP Apache, MySQL, PHP 5.6
+
+![alt text](https://github.com/vpslabs/docker-lampp56/localhost.jpg?raw=true)
+
 This docker contain:
 - PHP version : 5.6
 - PHPMyAdmin : 5.1.3
