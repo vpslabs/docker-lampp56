@@ -1,9 +1,9 @@
 # Docker LAMPP Apache, MySQL, PHP 5.6
 This docker contain:
-PHP version : 5.6
-PHPMyAdmin : 5.1.3
-MySQL version : 5.0
-Server version : Apache 2.4
+- PHP version : 5.6
+- PHPMyAdmin : 5.1.3
+- MySQL version : 5.0
+- Server version : Apache 2.4
 
 host : localhost:80 (Simply you can call by accessing localhost only without port)
 
