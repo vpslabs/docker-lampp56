@@ -32,7 +32,10 @@ environment:
 4. Then you can open `apache` server at `http://localhost:80` and `phpmyadmin` at `http://localhost:56`
 5. Place your `php` project at `public_html` directory, and you ready to go!
 
-You can change your `mysql` password on `docker-compose.yml` file.
+You can change your mysql password on docker-compose.yml file.
+
+
+Docker dengan Apache, MySQL dan PHP 5.6
 ------------------------------------------------------------------
 
 
